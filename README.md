@@ -6,7 +6,7 @@ This repo provides the source code & data of our paper NEGCL: [Noise-Enhanced Gr
 
 The structure of our model is available for viewing in the following:
 <p align="center">
-   <img src="NEGCL.png" width="900">
+   <img src="framework.png" width="900">
 </p>
 
 ### 1. Prerequisites
