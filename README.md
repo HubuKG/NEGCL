@@ -1,6 +1,6 @@
 # Noise-Enhanced Graph Contrastive Learning for Multimodal Recommendation Systems
 
-This repo provides the source code & data of our paper NEGCL: [Noise-Enhanced Graph Contrastive Learning for Multimodal Recommendation Systems](https://github.com/HubuKG/NEGCL) 
+This repo provides the source code & data of our paper NEGCL: [Noise-Enhanced Graph Contrastive Learning for Multimodal Recommendation Systems]([https://github.com/HubuKG/NEGCL](https://www.sciencedirect.com/science/article/pii/S0950705125008123)) 
 
 ## Overview
 
