@@ -38,3 +38,15 @@ Run ``!bash train.sh``
 ### 6. Modify specific parameters.
 
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`. 
+
+### 7. Citation
+```
+@article{NEGCL,
+   author = {Shi, Ke and Zhang, Yan and Zhang, Miao and Xiao, Kui and Hou, Xiaoju and Li, Zhifei},
+   title = {Noise-enhanced graph contrastive learning for multimodal recommendation systems},
+   journal = {Knowledge-Based Systems},
+   volume = {324},
+   pages = {113766},
+   year = {2025}
+}
+```
